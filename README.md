@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tahhamer
+- 👀 I’m interested in Making Games
+- 🌱 I’m currently learning Lua,C++ and C#
+- 💞️ I’m looking to collaborate on nothing rn
+- 📫 How to reach me LuaBoy#9111
