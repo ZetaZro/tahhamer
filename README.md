@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZetaZero
+- 👋 Hi, I’m @ZetaZro
 - 👀 I’m interested in Making Games
 - 🌱 I’m currently learning Lua,Gdscript,java and C#
 - 💞️ I’m looking to collaborate on nothing rn
